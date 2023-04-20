@@ -6,5 +6,4 @@
 	grid-template-columns: repeat(2, 1fr);
 	height: 200px;
 	width: 200px;
-	grid-gap: 10px;
 }
